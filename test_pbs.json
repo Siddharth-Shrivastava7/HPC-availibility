@@ -1,5 +1,5 @@
 {
-    "timestamp":1699149153,
+    "timestamp":1699160135,
     "pbs_version":"2022.1.3.20230614134139",
     "pbs_server":"hn1",
     "nodes":{
@@ -919,6 +919,7 @@
             "state":"free",
             "pcpus":24,
             "jobs":[
+                "3692137.pbshpc",
                 "3691207.pbshpc",
                 "3685895.pbshpc",
                 "3691207.pbshpc",
@@ -942,13 +943,13 @@
                 "vnode":"chas036"
             },
             "resources_assigned":{
-                "ncpus":22
+                "ncpus":23
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699144637,
-            "last_used_time":1699147810
+            "last_state_change_time":1699158609,
+            "last_used_time":1699158609
         },
         "chas037":{
             "Mom":"chas037.hpc.iitd.ac.in",
@@ -965,11 +966,11 @@
                 "3691138.pbshpc",
                 "3691941.pbshpc",
                 "3691806.pbshpc",
-                "3691589.pbshpc",
                 "3691941.pbshpc",
+                "3692143.pbshpc",
                 "3691207.pbshpc",
+                "3692143.pbshpc",
                 "3691622.pbshpc",
-                "3691589.pbshpc",
                 "3691806.pbshpc",
                 "3691622.pbshpc",
                 "3691806.pbshpc",
@@ -992,8 +993,8 @@
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699139876,
-            "last_used_time":1699148894
+            "last_state_change_time":1699157864,
+            "last_used_time":1699157864
         },
         "chas038":{
             "Mom":"chas038.hpc.iitd.ac.in",
@@ -1070,6 +1071,7 @@
             "jobs":[
                 "3685890.pbshpc",
                 "3691507.pbshpc",
+                "3692140.pbshpc",
                 "3685890.pbshpc",
                 "3691507.pbshpc",
                 "3691138.pbshpc",
@@ -1088,13 +1090,13 @@
                 "vnode":"chas040"
             },
             "resources_assigned":{
-                "ncpus":19
+                "ncpus":23
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699132247,
-            "last_used_time":1699144637
+            "last_used_time":1699155508
         },
         "chas041":{
             "Mom":"chas041.hpc.iitd.ac.in",
@@ -1197,12 +1199,13 @@
             "pcpus":24,
             "jobs":[
                 "3691138.pbshpc",
+                "3692138.pbshpc",
+                "3691138.pbshpc",
+                "3692138.pbshpc",
                 "3691507.pbshpc",
-                "3691589.pbshpc",
                 "3691138.pbshpc",
                 "3685895.pbshpc",
-                "3691138.pbshpc",
-                "3691589.pbshpc"
+                "3691138.pbshpc"
             ],
             "resources_available":{
                 "arch":"linux",
@@ -1222,7 +1225,7 @@
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699144632,
-            "last_used_time":1699144632
+            "last_used_time":1699157864
         },
         "chas045":{
             "Mom":"chas045.hpc.iitd.ac.in",
@@ -1231,10 +1234,8 @@
             "pcpus":24,
             "jobs":[
                 "3691207.pbshpc",
-                "3691589.pbshpc",
                 "3691507.pbshpc",
                 "3691207.pbshpc",
-                "3691589.pbshpc",
                 "3691507.pbshpc",
                 "3690757.pbshpc",
                 "3691507.pbshpc",
@@ -1243,7 +1244,6 @@
                 "3685895.pbshpc",
                 "3690757.pbshpc",
                 "3691585.pbshpc",
-                "3691589.pbshpc",
                 "3685895.pbshpc"
             ],
             "resources_available":{
@@ -1259,13 +1259,13 @@
             },
             "resources_assigned":{
                 "mem":"16777216kb",
-                "ncpus":23
+                "ncpus":19
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699102084,
-            "last_used_time":1699102084
+            "last_used_time":1699157864
         },
         "chas046":{
             "Mom":"chas046.hpc.iitd.ac.in",
@@ -1274,8 +1274,14 @@
             "pcpus":24,
             "jobs":[
                 "3691806.pbshpc",
-                "3691589.pbshpc",
-                "3691806.pbshpc"
+                "3692139.pbshpc",
+                "3691810.pbshpc",
+                "3691806.pbshpc",
+                "3692139.pbshpc",
+                "3692141.pbshpc",
+                "3691810.pbshpc",
+                "3691806.pbshpc",
+                "3691810.pbshpc"
             ],
             "resources_available":{
                 "arch":"linux",
@@ -1289,13 +1295,13 @@
                 "vnode":"chas046"
             },
             "resources_assigned":{
-                "ncpus":6
+                "ncpus":22
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699144637,
-            "last_used_time":1699146485
+            "last_used_time":1699158789
         },
         "chas047":{
             "Mom":"chas047.hpc.iitd.ac.in",
@@ -1303,10 +1309,10 @@
             "state":"free",
             "pcpus":24,
             "jobs":[
-                "3691589.pbshpc",
+                "3691839.pbshpc",
                 "3690757.pbshpc",
                 "3685899.pbshpc",
-                "3691589.pbshpc",
+                "3691839.pbshpc",
                 "3690757.pbshpc",
                 "3685899.pbshpc",
                 "3685895.pbshpc"
@@ -1323,18 +1329,18 @@
                 "vnode":"chas047"
             },
             "resources_assigned":{
-                "ncpus":18
+                "ncpus":20
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699079115,
-            "last_used_time":1699139876
+            "last_state_change_time":1699157864,
+            "last_used_time":1699157864
         },
         "chas048":{
             "Mom":"chas048.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
                 "3690757.pbshpc",
@@ -1342,7 +1348,6 @@
                 "3691508.pbshpc",
                 "3691207.pbshpc",
                 "3691508.pbshpc",
-                "3691589.pbshpc",
                 "3691207.pbshpc"
             ],
             "resources_available":{
@@ -1357,13 +1362,13 @@
                 "vnode":"chas048"
             },
             "resources_assigned":{
-                "ncpus":24
+                "ncpus":18
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699079210,
-            "last_used_time":1699079137
+            "last_state_change_time":1699157864,
+            "last_used_time":1699157864
         },
         "chas049":{
             "Mom":"chas049.hpc.iitd.ac.in",
@@ -1375,9 +1380,9 @@
                 "3691508.pbshpc",
                 "3685895.pbshpc",
                 "3691508.pbshpc",
-                "3691589.pbshpc",
+                "3692150.pbshpc",
                 "3691622.pbshpc",
-                "3691589.pbshpc"
+                "3692150.pbshpc"
             ],
             "resources_available":{
                 "arch":"linux",
@@ -1396,8 +1401,8 @@
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699081772,
-            "last_used_time":1699081758
+            "last_state_change_time":1699160030,
+            "last_used_time":1699158749
         },
         "chas050":{
             "Mom":"chas050.hpc.iitd.ac.in",
@@ -1428,7 +1433,7 @@
         "chas051":{
             "Mom":"chas051.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
                 "3685899.pbshpc",
@@ -1438,8 +1443,7 @@
                 "3691207.pbshpc",
                 "3685899.pbshpc",
                 "3691622.pbshpc",
-                "3685899.pbshpc",
-                "3692069.pbshpc"
+                "3685899.pbshpc"
             ],
             "resources_available":{
                 "arch":"linux",
@@ -1453,13 +1457,13 @@
                 "vnode":"chas051"
             },
             "resources_assigned":{
-                "ncpus":24
+                "ncpus":20
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699131001,
-            "last_used_time":1699130431
+            "last_state_change_time":1699152884,
+            "last_used_time":1699152883
         },
         "chas052":{
             "Mom":"chas052.hpc.iitd.ac.in",
@@ -1733,9 +1737,6 @@
                 "3685879.pbshpc",
                 "3691507.pbshpc",
                 "3691138.pbshpc",
-                "3691589.pbshpc",
-                "3685879.pbshpc",
-                "3691589.pbshpc",
                 "3685879.pbshpc",
                 "3691138.pbshpc"
             ],
@@ -1751,13 +1752,13 @@
                 "vnode":"chas061"
             },
             "resources_assigned":{
-                "ncpus":23
+                "ncpus":21
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699053075,
-            "last_used_time":1699084696
+            "last_used_time":1699157864
         },
         "chas062":{
             "Mom":"chas062.hpc.iitd.ac.in",
@@ -1830,14 +1831,13 @@
         "chas064":{
             "Mom":"chas064.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
                 "3691138.pbshpc",
                 "3685895.pbshpc",
                 "3685879.pbshpc",
                 "3691585.pbshpc",
-                "3691589.pbshpc",
                 "3685879.pbshpc",
                 "3691585.pbshpc",
                 "3692095.pbshpc",
@@ -1857,13 +1857,13 @@
             },
             "resources_assigned":{
                 "mem":"16777216kb",
-                "ncpus":24
+                "ncpus":22
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699139556,
-            "last_used_time":1699127454
+            "last_state_change_time":1699157864,
+            "last_used_time":1699157864
         },
         "chas065":{
             "Mom":"chas065.hpc.iitd.ac.in",
@@ -1872,7 +1872,6 @@
             "pcpus":24,
             "jobs":[
                 "3691959.pbshpc",
-                "3691589.pbshpc",
                 "3691138.pbshpc",
                 "3685879.pbshpc",
                 "3685895.pbshpc",
@@ -1890,13 +1889,13 @@
                 "vnode":"chas065"
             },
             "resources_assigned":{
-                "ncpus":20
+                "ncpus":18
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699128115,
-            "last_used_time":1699128115
+            "last_used_time":1699157864
         },
         "chas066":{
             "Mom":"chas066.hpc.iitd.ac.in",
@@ -1906,9 +1905,7 @@
             "jobs":[
                 "3692049.pbshpc",
                 "3691507.pbshpc",
-                "3691589.pbshpc",
                 "3691806.pbshpc",
-                "3691589.pbshpc",
                 "3692049.pbshpc"
             ],
             "resources_available":{
@@ -1923,13 +1920,13 @@
                 "vnode":"chas066"
             },
             "resources_assigned":{
-                "ncpus":23
+                "ncpus":21
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699053075,
-            "last_used_time":1699125656
+            "last_used_time":1699157864
         },
         "chas067":{
             "Mom":"chas067.hpc.iitd.ac.in",
@@ -1960,15 +1957,17 @@
         "chas068":{
             "Mom":"chas068.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"free",
+            "state":"job-busy",
             "pcpus":24,
             "jobs":[
                 "3692095.pbshpc",
+                "3692151.pbshpc",
                 "3691806.pbshpc",
-                "3691589.pbshpc",
+                "3692151.pbshpc",
                 "3691806.pbshpc",
-                "3691589.pbshpc",
-                "3691806.pbshpc"
+                "3692151.pbshpc",
+                "3691806.pbshpc",
+                "3692151.pbshpc"
             ],
             "resources_available":{
                 "arch":"linux",
@@ -1982,13 +1981,13 @@
                 "vnode":"chas068"
             },
             "resources_assigned":{
-                "ncpus":18
+                "ncpus":24
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699053075,
-            "last_used_time":1699139181
+            "last_state_change_time":1699160030,
+            "last_used_time":1699158726
         },
         "chas069":{
             "Mom":"chas069.hpc.iitd.ac.in",
@@ -1998,7 +1997,9 @@
             "jobs":[
                 "3692095.pbshpc",
                 "3691207.pbshpc",
-                "3691589.pbshpc",
+                "3692152.pbshpc",
+                "3691207.pbshpc",
+                "3692152.pbshpc",
                 "3685895.pbshpc"
             ],
             "resources_available":{
@@ -2013,22 +2014,21 @@
                 "vnode":"chas069"
             },
             "resources_assigned":{
-                "ncpus":18
+                "ncpus":22
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699058265,
-            "last_used_time":1699137909
+            "last_used_time":1699159079
         },
         "chas070":{
             "Mom":"chas070.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
                 "3685879.pbshpc",
-                "3691589.pbshpc",
                 "3685895.pbshpc"
             ],
             "resources_available":{
@@ -2043,13 +2043,13 @@
                 "vnode":"chas070"
             },
             "resources_assigned":{
-                "ncpus":24
+                "ncpus":22
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699079210,
-            "last_used_time":1699052645
+            "last_state_change_time":1699157864,
+            "last_used_time":1699157864
         },
         "chas071":{
             "Mom":"chas071.hpc.iitd.ac.in",
@@ -2063,10 +2063,8 @@
                 "3691507.pbshpc",
                 "3691806.pbshpc",
                 "3691507.pbshpc",
-                "3691589.pbshpc",
                 "3691806.pbshpc",
                 "3691138.pbshpc",
-                "3691589.pbshpc",
                 "3685879.pbshpc",
                 "3691138.pbshpc"
             ],
@@ -2082,13 +2080,13 @@
                 "vnode":"chas071"
             },
             "resources_assigned":{
-                "ncpus":23
+                "ncpus":21
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699052645,
-            "last_used_time":1699096802
+            "last_used_time":1699157864
         },
         "chas072":{
             "Mom":"chas072.hpc.iitd.ac.in",
@@ -2125,17 +2123,14 @@
         "chas073":{
             "Mom":"chas073.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
                 "3685895.pbshpc",
                 "3691138.pbshpc",
                 "3691507.pbshpc",
-                "3689968.pbshpc",
-                "3691507.pbshpc",
                 "3691508.pbshpc",
                 "3691138.pbshpc",
-                "3689968.pbshpc",
                 "3685879.pbshpc"
             ],
             "resources_available":{
@@ -2150,13 +2145,13 @@
                 "vnode":"chas073"
             },
             "resources_assigned":{
-                "ncpus":24
+                "ncpus":20
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699071609,
-            "last_used_time":1699055990
+            "last_state_change_time":1699156026,
+            "last_used_time":1699156026
         },
         "chas074":{
             "Mom":"chas074.hpc.iitd.ac.in",
@@ -2766,7 +2761,7 @@
             "pcpus":24,
             "jobs":[
                 "3691806.pbshpc",
-                "3691653.pbshpc",
+                "3692153.pbshpc",
                 "3691585.pbshpc",
                 "3691138.pbshpc",
                 "3691585.pbshpc"
@@ -2790,7 +2785,7 @@
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699108570,
-            "last_used_time":1699109261
+            "last_used_time":1699155020
         },
         "chas093":{
             "Mom":"chas093.hpc.iitd.ac.in",
@@ -2830,7 +2825,6 @@
             "pcpus":24,
             "jobs":[
                 "3691806.pbshpc",
-                "3691663.pbshpc",
                 "3690510.pbshpc"
             ],
             "resources_available":{
@@ -2845,14 +2839,13 @@
                 "vnode":"chas094"
             },
             "resources_assigned":{
-                "mem":"25165824kb",
-                "ncpus":20
+                "ncpus":16
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699108570,
-            "last_used_time":1699109261
+            "last_used_time":1699158118
         },
         "chas095":{
             "Mom":"chas095.hpc.iitd.ac.in",
@@ -3003,13 +2996,9 @@
         "chas100":{
             "Mom":"chas100.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
-                "3690506.pbshpc",
-                "3691672.pbshpc",
-                "3690506.pbshpc",
-                "3691672.pbshpc",
                 "3690506.pbshpc",
                 "3691622.pbshpc",
                 "3690506.pbshpc",
@@ -3027,14 +3016,13 @@
                 "vnode":"chas100"
             },
             "resources_assigned":{
-                "mem":"50331648kb",
-                "ncpus":24
+                "ncpus":16
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699088089,
-            "last_used_time":1699088045
+            "last_state_change_time":1699157242,
+            "last_used_time":1699157242
         },
         "chas101":{
             "Mom":"chas101.hpc.iitd.ac.in",
@@ -3043,12 +3031,8 @@
             "pcpus":24,
             "jobs":[
                 "3685895.pbshpc",
-                "3691663.pbshpc",
                 "3685870.pbshpc",
-                "3691663.pbshpc",
-                "3685870.pbshpc",
-                "3691508.pbshpc",
-                "3691672.pbshpc"
+                "3691508.pbshpc"
             ],
             "resources_available":{
                 "arch":"linux",
@@ -3062,14 +3046,13 @@
                 "vnode":"chas101"
             },
             "resources_assigned":{
-                "mem":"50331648kb",
-                "ncpus":23
+                "ncpus":15
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699050511,
-            "last_used_time":1699088045
+            "last_used_time":1699158118
         },
         "chas102":{
             "Mom":"chas102.hpc.iitd.ac.in",
@@ -3101,7 +3084,6 @@
             "pcpus":24,
             "jobs":[
                 "3690506.pbshpc",
-                "3691672.pbshpc",
                 "3685870.pbshpc",
                 "3691622.pbshpc"
             ],
@@ -3117,28 +3099,21 @@
                 "vnode":"chas103"
             },
             "resources_assigned":{
-                "mem":"25165824kb",
-                "ncpus":22
+                "ncpus":18
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699125327,
-            "last_used_time":1699125326
+            "last_used_time":1699157242
         },
         "chas104":{
             "Mom":"chas104.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
                 "3690022.pbshpc",
-                "3691672.pbshpc",
-                "3690022.pbshpc",
-                "3691205.pbshpc",
-                "3691672.pbshpc",
-                "3691205.pbshpc",
-                "3691672.pbshpc",
                 "3691205.pbshpc"
             ],
             "resources_available":{
@@ -3153,14 +3128,13 @@
                 "vnode":"chas104"
             },
             "resources_assigned":{
-                "mem":"50331648kb",
-                "ncpus":24
+                "ncpus":16
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699088089,
-            "last_used_time":1699088045
+            "last_state_change_time":1699157242,
+            "last_used_time":1699157242
         },
         "chas105":{
             "Mom":"chas105.hpc.iitd.ac.in",
@@ -3240,14 +3214,10 @@
         "chas107":{
             "Mom":"chas107.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
                 "3690594.pbshpc",
-                "3691672.pbshpc",
-                "3690594.pbshpc",
-                "3685870.pbshpc",
-                "3691672.pbshpc",
                 "3685870.pbshpc"
             ],
             "resources_available":{
@@ -3262,14 +3232,13 @@
                 "vnode":"chas107"
             },
             "resources_assigned":{
-                "mem":"25165824kb",
-                "ncpus":24
+                "ncpus":20
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699088089,
-            "last_used_time":1699088045
+            "last_state_change_time":1699157242,
+            "last_used_time":1699157242
         },
         "chas108":{
             "Mom":"chas108.hpc.iitd.ac.in",
@@ -3278,13 +3247,11 @@
             "pcpus":24,
             "jobs":[
                 "3691959.pbshpc",
-                "3691672.pbshpc",
                 "3691207.pbshpc",
                 "3691508.pbshpc",
                 "3691959.pbshpc",
                 "3691207.pbshpc",
-                "3691959.pbshpc",
-                "3691672.pbshpc"
+                "3691959.pbshpc"
             ],
             "resources_available":{
                 "arch":"linux",
@@ -3298,23 +3265,19 @@
                 "vnode":"chas108"
             },
             "resources_assigned":{
-                "mem":"25165824kb",
-                "ncpus":21
+                "ncpus":17
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699104260,
-            "last_used_time":1699112672
+            "last_used_time":1699157242
         },
         "chas109":{
             "Mom":"chas109.hpc.iitd.ac.in",
             "ntype":"PBS",
             "state":"free",
             "pcpus":24,
-            "jobs":[
-                "3691672.pbshpc"
-            ],
             "resources_available":{
                 "arch":"linux",
                 "centos":"haswell",
@@ -3327,14 +3290,12 @@
                 "vnode":"chas109"
             },
             "resources_assigned":{
-                "mem":"50331648kb",
-                "ncpus":8
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699144681,
-            "last_used_time":1699144680
+            "last_used_time":1699157242
         },
         "chas110":{
             "Mom":"chas110.hpc.iitd.ac.in",
@@ -3499,10 +3460,8 @@
             "jobs":[
                 "3691585.pbshpc",
                 "3685899.pbshpc",
-                "3691672.pbshpc",
                 "3691585.pbshpc",
                 "3691622.pbshpc",
-                "3691672.pbshpc",
                 "3685899.pbshpc"
             ],
             "resources_available":{
@@ -3517,14 +3476,14 @@
                 "vnode":"chas115"
             },
             "resources_assigned":{
-                "mem":"58720256kb",
-                "ncpus":22
+                "mem":"33554432kb",
+                "ncpus":18
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699104260,
-            "last_used_time":1699104260
+            "last_used_time":1699157242
         },
         "chas116":{
             "Mom":"chas116.hpc.iitd.ac.in",
@@ -3566,8 +3525,6 @@
             "jobs":[
                 "3691460.pbshpc",
                 "3691806.pbshpc",
-                "3691663.pbshpc",
-                "3691672.pbshpc",
                 "3685899.pbshpc",
                 "3691806.pbshpc"
             ],
@@ -3583,14 +3540,13 @@
                 "vnode":"chas117"
             },
             "resources_assigned":{
-                "mem":"50331648kb",
-                "ncpus":20
+                "ncpus":12
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699104260,
-            "last_used_time":1699104260
+            "last_used_time":1699158118
         },
         "chas118":{
             "Mom":"chas118.hpc.iitd.ac.in",
@@ -3727,10 +3683,9 @@
         "chas122":{
             "Mom":"chas122.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
-                "3691663.pbshpc",
                 "3691744.pbshpc"
             ],
             "resources_available":{
@@ -3745,14 +3700,13 @@
                 "vnode":"chas122"
             },
             "resources_assigned":{
-                "mem":"50331648kb",
-                "ncpus":24
+                "ncpus":16
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699094857,
-            "last_used_time":1699094401
+            "last_state_change_time":1699158118,
+            "last_used_time":1699158118
         },
         "chas123":{
             "Mom":"chas123.hpc.iitd.ac.in",
@@ -3907,12 +3861,7 @@
             "state":"free",
             "pcpus":24,
             "jobs":[
-                "3691612.pbshpc",
-                "3691663.pbshpc",
-                "3688931.pbshpc",
-                "3691612.pbshpc",
-                "3691663.pbshpc",
-                "3691612.pbshpc"
+                "3688931.pbshpc"
             ],
             "resources_available":{
                 "arch":"linux",
@@ -3926,14 +3875,14 @@
                 "vnode":"chas128"
             },
             "resources_assigned":{
-                "mem":"58720256kb",
-                "ncpus":18
+                "mem":"33554432kb",
+                "ncpus":4
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699050334,
-            "last_used_time":1699132247
+            "last_used_time":1699158118
         },
         "chas129":{
             "Mom":"chas129.hpc.iitd.ac.in",
@@ -3978,7 +3927,6 @@
             "state":"free",
             "pcpus":24,
             "jobs":[
-                "3691663.pbshpc",
                 "3690594.pbshpc",
                 "3688178.pbshpc",
                 "3690594.pbshpc"
@@ -3995,27 +3943,21 @@
                 "vnode":"chas130"
             },
             "resources_assigned":{
-                "mem":"50331648kb",
-                "ncpus":22
+                "ncpus":14
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699104260,
-            "last_used_time":1699104260
+            "last_used_time":1699158118
         },
         "chas131":{
             "Mom":"chas131.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
                 "3690594.pbshpc",
-                "3691663.pbshpc",
-                "3690594.pbshpc",
-                "3691663.pbshpc",
-                "3690594.pbshpc",
-                "3691663.pbshpc",
                 "3691806.pbshpc",
                 "3690594.pbshpc",
                 "3691806.pbshpc"
@@ -4032,14 +3974,13 @@
                 "vnode":"chas131"
             },
             "resources_assigned":{
-                "mem":"50331648kb",
-                "ncpus":24
+                "ncpus":16
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699099925,
-            "last_used_time":1699084740
+            "last_state_change_time":1699158118,
+            "last_used_time":1699158118
         },
         "chas132":{
             "Mom":"chas132.hpc.iitd.ac.in",
@@ -4155,8 +4096,7 @@
             "pcpus":24,
             "jobs":[
                 "3692096.pbshpc",
-                "3691806.pbshpc",
-                "3691672.pbshpc"
+                "3691806.pbshpc"
             ],
             "resources_available":{
                 "arch":"linux",
@@ -4170,25 +4110,22 @@
                 "vnode":"chas136"
             },
             "resources_assigned":{
-                "mem":"25165824kb",
-                "ncpus":20
+                "ncpus":16
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699104260,
-            "last_used_time":1699133167
+            "last_used_time":1699157242
         },
         "chas137":{
             "Mom":"chas137.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
                 "3691585.pbshpc",
                 "3690510.pbshpc",
-                "3691585.pbshpc",
-                "3691663.pbshpc",
                 "3691585.pbshpc"
             ],
             "resources_available":{
@@ -4203,28 +4140,25 @@
                 "vnode":"chas137"
             },
             "resources_assigned":{
-                "mem":"58720256kb",
-                "ncpus":24
+                "mem":"33554432kb",
+                "ncpus":20
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699087059,
-            "last_used_time":1699084740
+            "last_state_change_time":1699158118,
+            "last_used_time":1699158118
         },
         "chas138":{
             "Mom":"chas138.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
                 "3691958.pbshpc",
                 "3690499.pbshpc",
                 "3691958.pbshpc",
                 "3690499.pbshpc",
-                "3691663.pbshpc",
-                "3691958.pbshpc",
-                "3691663.pbshpc",
                 "3691958.pbshpc"
             ],
             "resources_available":{
@@ -4239,14 +4173,13 @@
                 "vnode":"chas138"
             },
             "resources_assigned":{
-                "mem":"25165824kb",
-                "ncpus":24
+                "ncpus":20
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699139879,
-            "last_used_time":1699132247
+            "last_state_change_time":1699158118,
+            "last_used_time":1699158118
         },
         "chas139":{
             "Mom":"chas139.hpc.iitd.ac.in",
@@ -4562,12 +4495,11 @@
         "chas150":{
             "Mom":"chas150.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
                 "3691585.pbshpc",
                 "3691955.pbshpc",
-                "3691663.pbshpc",
                 "3691806.pbshpc",
                 "3691955.pbshpc"
             ],
@@ -4583,14 +4515,14 @@
                 "vnode":"chas150"
             },
             "resources_assigned":{
-                "mem":"58720256kb",
-                "ncpus":24
+                "mem":"33554432kb",
+                "ncpus":20
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699139879,
-            "last_used_time":1699132247
+            "last_state_change_time":1699158118,
+            "last_used_time":1699158118
         },
         "chas151":{
             "Mom":"chas151.hpc.iitd.ac.in",
@@ -4675,9 +4607,7 @@
             "state":"free",
             "pcpus":24,
             "jobs":[
-                "3691672.pbshpc",
-                "3691820.pbshpc",
-                "3691663.pbshpc"
+                "3691820.pbshpc"
             ],
             "resources_available":{
                 "arch":"linux",
@@ -4691,23 +4621,20 @@
                 "vnode":"chas154"
             },
             "resources_assigned":{
-                "mem":"50331648kb",
-                "ncpus":20
+                "ncpus":12
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699104260,
-            "last_used_time":1699104260
+            "last_used_time":1699158118
         },
         "chas155":{
             "Mom":"chas155.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
-                "3691585.pbshpc",
-                "3691663.pbshpc",
                 "3691585.pbshpc",
                 "3691806.pbshpc",
                 "3691954.pbshpc",
@@ -4726,14 +4653,14 @@
                 "vnode":"chas155"
             },
             "resources_assigned":{
-                "mem":"58720256kb",
-                "ncpus":24
+                "mem":"33554432kb",
+                "ncpus":20
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699139879,
-            "last_used_time":1699132247
+            "last_state_change_time":1699158118,
+            "last_used_time":1699158118
         },
         "chas156":{
             "Mom":"chas156.hpc.iitd.ac.in",
@@ -4790,11 +4717,9 @@
         "chas158":{
             "Mom":"chas158.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
-                "3692049.pbshpc",
-                "3691663.pbshpc",
                 "3692049.pbshpc",
                 "3692119.pbshpc"
             ],
@@ -4810,14 +4735,13 @@
                 "vnode":"chas158"
             },
             "resources_assigned":{
-                "mem":"25165824kb",
-                "ncpus":24
+                "ncpus":20
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699143410,
-            "last_used_time":1699142365
+            "last_state_change_time":1699158118,
+            "last_used_time":1699158118
         },
         "chas159":{
             "Mom":"chas159.hpc.iitd.ac.in",
@@ -8174,9 +8098,6 @@
             "pcpus":24,
             "jobs":[
                 "3690011.pbshpc",
-                "3691672.pbshpc",
-                "3691959.pbshpc",
-                "3691672.pbshpc",
                 "3691959.pbshpc"
             ],
             "resources_available":{
@@ -8193,15 +8114,14 @@
                 "vnode":"khas022"
             },
             "resources_assigned":{
-                "mem":"50331648kb",
-                "ncpus":17,
+                "ncpus":9,
                 "ngpus":1
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699018993,
-            "last_used_time":1699133763
+            "last_used_time":1699157242
         },
         "khas023":{
             "Mom":"khas023.hpc.iitd.ac.in",
@@ -8396,11 +8316,9 @@
             "state":"free",
             "pcpus":24,
             "jobs":[
-                "3691999.pbshpc",
                 "3689998.pbshpc",
                 "3691197.pbshpc",
-                "3690106.pbshpc",
-                "3691999.pbshpc"
+                "3690106.pbshpc"
             ],
             "resources_available":{
                 "arch":"linux",
@@ -8416,14 +8334,14 @@
                 "vnode":"khas029"
             },
             "resources_assigned":{
-                "ncpus":23,
+                "ncpus":11,
                 "ngpus":1
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699123183,
-            "last_used_time":1699123183
+            "last_used_time":1699155211
         },
         "khas030":{
             "Mom":"khas030.hpc.iitd.ac.in",
@@ -8538,7 +8456,6 @@
             "state":"free",
             "pcpus":24,
             "jobs":[
-                "3691999.pbshpc",
                 "3685858.pbshpc",
                 "3690239.pbshpc",
                 "3686015.pbshpc",
@@ -8558,14 +8475,14 @@
                 "vnode":"khas033"
             },
             "resources_assigned":{
-                "ncpus":20,
+                "ncpus":8,
                 "ngpus":2
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699116543,
-            "last_used_time":1699116543
+            "last_used_time":1699155211
         },
         "khas034":{
             "Mom":"khas034.hpc.iitd.ac.in",
@@ -8613,7 +8530,6 @@
                 "3692119.pbshpc",
                 "3688271.pbshpc",
                 "3692119.pbshpc",
-                "3691834.pbshpc",
                 "3690106.pbshpc",
                 "3690746.pbshpc"
             ],
@@ -8631,14 +8547,14 @@
                 "vnode":"khas035"
             },
             "resources_assigned":{
-                "ncpus":22,
+                "ncpus":12,
                 "ngpus":2
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699121605,
-            "last_used_time":1699143437
+            "last_used_time":1699159128
         },
         "khas036":{
             "Mom":"khas036.hpc.iitd.ac.in",
@@ -8729,16 +8645,13 @@
         "khas039":{
             "Mom":"khas039.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
                 "3688272.pbshpc",
                 "3690744.pbshpc",
-                "3691999.pbshpc",
                 "3690106.pbshpc",
-                "3691999.pbshpc",
                 "3685858.pbshpc",
-                "3691999.pbshpc",
                 "3690106.pbshpc",
                 "3685858.pbshpc"
             ],
@@ -8756,14 +8669,14 @@
                 "vnode":"khas039"
             },
             "resources_assigned":{
-                "ncpus":24,
+                "ncpus":12,
                 "ngpus":2
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699119382,
-            "last_used_time":1699040262
+            "last_state_change_time":1699155211,
+            "last_used_time":1699155211
         },
         "khas040":{
             "Mom":"khas040.hpc.iitd.ac.in",
@@ -9646,7 +9559,6 @@
             "state":"free",
             "pcpus":24,
             "jobs":[
-                "3691999.pbshpc",
                 "3692119.pbshpc",
                 "3688272.pbshpc",
                 "3692119.pbshpc"
@@ -9665,14 +9577,14 @@
                 "vnode":"khas068"
             },
             "resources_assigned":{
-                "ncpus":21,
+                "ncpus":9,
                 "ngpus":1
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699018993,
-            "last_used_time":1699119339
+            "last_used_time":1699155211
         },
         "khas069":{
             "Mom":"khas069.hpc.iitd.ac.in",
@@ -10996,7 +10908,6 @@
             "state":"offline",
             "pcpus":24,
             "jobs":[
-                "3689038.pbshpc",
                 "3690013.pbshpc"
             ],
             "resources_available":{
@@ -11013,15 +10924,15 @@
                 "vnode":"khas111"
             },
             "resources_assigned":{
-                "ncpus":2,
-                "ngpus":2
+                "ncpus":1,
+                "ngpus":1
             },
             "comment":"Marked Offline by PBS Pro fs_check hook due to inability to create directory inside Scratch. Exit status is 1",
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699015624,
-            "last_used_time":1699040328
+            "last_used_time":1699158289
         },
         "khas112":{
             "Mom":"khas112.hpc.iitd.ac.in",
@@ -11031,8 +10942,6 @@
             "jobs":[
                 "3691003.pbshpc",
                 "3690501.pbshpc",
-                "3691003.pbshpc",
-                "3689038.pbshpc",
                 "3691003.pbshpc"
             ],
             "resources_available":{
@@ -11049,14 +10958,13 @@
                 "vnode":"khas112"
             },
             "resources_assigned":{
-                "ncpus":19,
-                "ngpus":2
+                "ncpus":17
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699021175,
-            "last_used_time":1699040262
+            "last_used_time":1699158289
         },
         "khas113":{
             "Mom":"khas113.hpc.iitd.ac.in",
@@ -11189,7 +11097,6 @@
             "pcpus":24,
             "jobs":[
                 "3688273.pbshpc",
-                "3689038.pbshpc",
                 "3690501.pbshpc"
             ],
             "resources_available":{
@@ -11206,14 +11113,14 @@
                 "vnode":"khas117"
             },
             "resources_assigned":{
-                "ncpus":14,
-                "ngpus":2
+                "ncpus":13,
+                "ngpus":1
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699022528,
-            "last_used_time":1699143437
+            "last_used_time":1699158289
         },
         "khas118":{
             "Mom":"khas118.hpc.iitd.ac.in",
@@ -11223,8 +11130,6 @@
             "jobs":[
                 "3690501.pbshpc",
                 "3687751.pbshpc",
-                "3691003.pbshpc",
-                "3689038.pbshpc",
                 "3691003.pbshpc"
             ],
             "resources_available":{
@@ -11241,14 +11146,14 @@
                 "vnode":"khas118"
             },
             "resources_assigned":{
-                "ncpus":19,
-                "ngpus":2
+                "ncpus":18,
+                "ngpus":1
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699021175,
-            "last_used_time":1699040262
+            "last_used_time":1699158289
         },
         "khas119":{
             "Mom":"khas119.hpc.iitd.ac.in",
@@ -11287,8 +11192,7 @@
             "state":"free",
             "pcpus":24,
             "jobs":[
-                "3687751.pbshpc",
-                "3689038.pbshpc"
+                "3687751.pbshpc"
             ],
             "resources_available":{
                 "arch":"linux",
@@ -11304,14 +11208,14 @@
                 "vnode":"khas120"
             },
             "resources_assigned":{
-                "ncpus":2,
-                "ngpus":2
+                "ncpus":1,
+                "ngpus":1
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699040262,
-            "last_used_time":1699143437
+            "last_used_time":1699158289
         },
         "khas121":{
             "Mom":"khas121.hpc.iitd.ac.in",
@@ -12023,8 +11927,6 @@
             "pcpus":24,
             "jobs":[
                 "3690506.pbshpc",
-                "3689038.pbshpc",
-                "3690506.pbshpc",
                 "3684855.pbshpc"
             ],
             "resources_available":{
@@ -12041,25 +11943,22 @@
                 "vnode":"khas144"
             },
             "resources_assigned":{
-                "ncpus":15,
-                "ngpus":1
+                "ncpus":14
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699017123,
-            "last_used_time":1699143437
+            "last_used_time":1699158289
         },
         "khas145":{
             "Mom":"khas145.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-busy",
+            "state":"free",
             "pcpus":24,
             "jobs":[
                 "3688276.pbshpc",
                 "3690502.pbshpc",
-                "3687678.pbshpc",
-                "3689038.pbshpc",
                 "3687678.pbshpc"
             ],
             "resources_available":{
@@ -12076,14 +11975,14 @@
                 "vnode":"khas145"
             },
             "resources_assigned":{
-                "ncpus":24,
-                "ngpus":2
+                "ncpus":23,
+                "ngpus":1
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1699006704,
-            "last_used_time":1698998001
+            "last_state_change_time":1699158289,
+            "last_used_time":1699158289
         },
         "khas146":{
             "Mom":"khas146.hpc.iitd.ac.in",
@@ -14575,11 +14474,8 @@
         "csky060":{
             "Mom":"csky060.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-exclusive",
+            "state":"free",
             "pcpus":40,
-            "jobs":[
-                "3688037.pbshpc"
-            ],
             "resources_available":{
                 "arch":"linux",
                 "centos":"skylake",
@@ -14592,13 +14488,12 @@
                 "vnode":"csky060"
             },
             "resources_assigned":{
-                "ncpus":40
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1698891170,
-            "last_used_time":1698868763
+            "last_state_change_time":1699157114,
+            "last_used_time":1699157114
         },
         "csky061":{
             "Mom":"csky061.hpc.iitd.ac.in",
@@ -15649,9 +15544,6 @@
             "ntype":"PBS",
             "state":"free",
             "pcpus":40,
-            "jobs":[
-                "3692005.pbshpc"
-            ],
             "resources_available":{
                 "arch":"linux",
                 "centos":"skylake",
@@ -15664,13 +15556,12 @@
                 "vnode":"csky095"
             },
             "resources_assigned":{
-                "ncpus":12
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1698860524,
-            "last_used_time":1699132103
+            "last_used_time":1699152421
         },
         "csky096":{
             "Mom":"csky096.hpc.iitd.ac.in",
@@ -16034,11 +15925,8 @@
         "csky108":{
             "Mom":"csky108.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-exclusive",
+            "state":"free",
             "pcpus":40,
-            "jobs":[
-                "3688037.pbshpc"
-            ],
             "resources_available":{
                 "arch":"linux",
                 "centos":"skylake",
@@ -16051,13 +15939,12 @@
                 "vnode":"csky108"
             },
             "resources_assigned":{
-                "ncpus":40
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1698891170,
-            "last_used_time":1698891167
+            "last_state_change_time":1699157114,
+            "last_used_time":1699157114
         },
         "csky109":{
             "Mom":"csky109.hpc.iitd.ac.in",
@@ -16362,9 +16249,7 @@
             "state":"free",
             "pcpus":40,
             "jobs":[
-                "3692018.pbshpc",
-                "3686784.pbshpc",
-                "3692018.pbshpc"
+                "3686784.pbshpc"
             ],
             "resources_available":{
                 "arch":"linux",
@@ -16378,13 +16263,13 @@
                 "vnode":"csky119"
             },
             "resources_assigned":{
-                "ncpus":32
+                "ncpus":8
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699096174,
-            "last_used_time":1699120913
+            "last_used_time":1699151540
         },
         "csky120":{
             "Mom":"csky120.hpc.iitd.ac.in",
@@ -16906,11 +16791,8 @@
         "csky138":{
             "Mom":"csky138.hpc.iitd.ac.in",
             "ntype":"PBS",
-            "state":"job-exclusive",
+            "state":"free",
             "pcpus":40,
-            "jobs":[
-                "3688037.pbshpc"
-            ],
             "resources_available":{
                 "arch":"linux",
                 "centos":"skylake",
@@ -16923,13 +16805,12 @@
                 "vnode":"csky138"
             },
             "resources_assigned":{
-                "ncpus":40
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
-            "last_state_change_time":1698891170,
-            "last_used_time":1698890360
+            "last_state_change_time":1699157114,
+            "last_used_time":1699157114
         },
         "csky139":{
             "Mom":"csky139.hpc.iitd.ac.in",
@@ -17165,7 +17046,9 @@
             "state":"free",
             "pcpus":40,
             "jobs":[
-                "3691901.pbshpc"
+                "3692149.pbshpc",
+                "3691901.pbshpc",
+                "3692149.pbshpc"
             ],
             "resources_available":{
                 "arch":"linux",
@@ -17181,14 +17064,14 @@
                 "vnode":"vsky004"
             },
             "resources_assigned":{
-                "ncpus":16,
-                "ngpus":1
+                "ncpus":32,
+                "ngpus":2
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1699019407,
-            "last_used_time":1699143914
+            "last_used_time":1699158232
         },
         "vsky005":{
             "Mom":"vsky005.hpc.iitd.ac.in",
@@ -18298,9 +18181,6 @@
             "ntype":"PBS",
             "state":"free",
             "pcpus":40,
-            "jobs":[
-                "3687709.pbshpc"
-            ],
             "resources_available":{
                 "arch":"linux",
                 "centos":"skylake",
@@ -18315,14 +18195,12 @@
                 "vnode":"vsky002"
             },
             "resources_assigned":{
-                "ncpus":4,
-                "ngpus":1
             },
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1698834195,
-            "last_used_time":1699083497
+            "last_used_time":1699149858
         },
         "cice001":{
             "Mom":"cice001.hpc.iitd.ac.in",
@@ -18876,9 +18754,7 @@
             "state":"free",
             "pcpus":64,
             "jobs":[
-                "3691633.pbshpc",
-                "3684907.pbshpc",
-                "3691633.pbshpc"
+                "3684907.pbshpc"
             ],
             "resources_available":{
                 "arch":"linux",
@@ -18893,15 +18769,15 @@
                 "vnode":"aice005"
             },
             "resources_assigned":{
-                "ncpus":8,
-                "ngpus":2
+                "ncpus":4,
+                "ngpus":1
             },
             "queue":"test",
             "resv_enable":"True",
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1698611432,
-            "last_used_time":1699082855
+            "last_used_time":1699150024
         },
         "aice006":{
             "Mom":"aice006.hpc.iitd.ac.in",
@@ -18936,7 +18812,6 @@
             "state":"free",
             "pcpus":64,
             "jobs":[
-                "3691644.pbshpc",
                 "3691745.pbshpc"
             ],
             "resources_available":{
@@ -18952,8 +18827,8 @@
                 "vnode":"aice007"
             },
             "resources_assigned":{
-                "ncpus":8,
-                "ngpus":2
+                "ncpus":4,
+                "ngpus":1
             },
             "queue":"test",
             "comment":"Marked Offline by PBS Pro fs_check hook due to absence of User ce1180169. Exit status is 2",
@@ -18961,7 +18836,7 @@
             "sharing":"default_shared",
             "license":"l",
             "last_state_change_time":1696486525,
-            "last_used_time":1699094915
+            "last_used_time":1699150964
         },
         "aice008":{
             "Mom":"aice008.hpc.iitd.ac.in",
